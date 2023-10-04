@@ -347,9 +347,7 @@ The script above will take a few minutes to create VMSS and related resources. O
 
 3. Create an alert that uses a runbook to remedy a problem.
 
-4. Cause the problem to the flask app on the VM Scale Set.
-
-5. Verify the problem is remedied via the Runbook.
+4. Verify the problem is remedied via the Runbook.
 
 ---
 
